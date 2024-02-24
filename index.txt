@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Souvik Mandal
+Souvik Mandal
+Deep Learning Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+mandalsouvik76@gmail.com
 
 Phone
-+1 (213) 352-2795
+
 
 Birthday
-June 23, 1982
+March 10, 1998
 
 Location
-Sacramento, California, USA
+Bengaluru, India
 
 # navbar
 
